@@ -2,7 +2,7 @@
 layout: default2
 title: home
 permalink: /
-title: <h3  align="center">Workshop on Instruction Tuning and Instruction Following</h3>
+title: <h3  align="center">Workshop on Long Context Foundation Models</h3>
 nav_order: 1
 ---
 
@@ -166,34 +166,39 @@ Time: 15:15-16:00
 <html>
     <div class="team-container">
         <div class="team-member">
-            <img src="/assets/img/organizers/qinyuan_ye.jpg" alt="Name 1">
-            <a href="http://yeqy.xyz/">Qinyuan Ye</a>
-            <p>University of Southern California</p>
+            <img src="/assets/img/organizers/tianyu.jpeg" alt="Name 1">
+            <a href="https://gaotianyu.xyz/about/">Tianyu Gao</a>
+            <p>Princeton University</p>
         </div>
         <div class="team-member">
-            <img src="/assets/img/organizers/yizhong_wang.jpg" alt="Name 2">
-            <p><a href="https://homes.cs.washington.edu/~yizhongw/">Yizhong Wang</a>
+            <img src="/assets/img/organizers/weijia.png" alt="Name 2">
+            <p><a href="https://swj0419.github.io/">Weijia Shi</a>
             <br>University of Washington</p>
         </div>
         <div class="team-member">
-            <img src="/assets/img/organizers/shayne_longpre.jpg" alt="Name 3">
-            <p><a href="https://www.shaynelongpre.com/">Shayne Longpre</a>
-            <br>Massachusetts Institute of Technology</p>
+            <img src="/assets/img/organizers/amanda.png" alt="Name 3">
+            <p><a href="https://www.cs.cmu.edu/~abertsch/">Amanda Bertsch</a>
+            <br>Carnegie Mellon University</p>
         </div>
         <div class="team-member">
-            <img src="/assets/img/organizers/yao_fu.jpg" alt="Name 4">
-            <p><a href="https://franxyao.github.io/">Yao Fu</a>
-            <br>University of Edinburgh</p>
+            <img src="/assets/img/organizers/tri.jpeg" alt="Name 4">
+            <p><a href="https://tridao.me/">Tri Dao</a>
+            <br>Princeton University</p>
         </div>
         <div class="team-member">
-            <img src="/assets/img/organizers/daniel_khashabi.jpeg" alt="Name 5">
-            <p><a href="https://danielkhashabi.com/">Daniel Khashabi</a>
-            <br>Johns Hopkins University</p>
+            <img src="/assets/img/organizers/danqi.jpeg" alt="Name 5">
+            <p><a href="https://www.cs.princeton.edu/~danqic/">Danqi Chen</a>
+            <br>Princeton University</p>
+        </div>
+        <div class="team-member">
+            <img src="/assets/img/organizers/chris.jpg" alt="Name 5">
+            <p><a href="https://cs.stanford.edu/~chrismre/">Danqi Chen</a>
+            <br>Stanford University</p>
         </div>
     </div>
 </html>
 
-## Steering Committee
+<!-- ## Steering Committee
 
 <html>
     <div class="team-container">
@@ -213,9 +218,9 @@ Time: 15:15-16:00
             <br>University of Southern California</p>
         </div>
     </div>
-</html>
+</html> -->
 
-## Sponsors
+<!-- ## Sponsors
 
 <html>
     <div class="sponsor-container">
@@ -321,4 +326,4 @@ Time: 15:15-16:00
 }
 </style>
 
-<br><br>
+<br><br> -->
