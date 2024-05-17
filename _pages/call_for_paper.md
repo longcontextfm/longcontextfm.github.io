@@ -24,16 +24,13 @@ nav: false
 
 ### Topics of Interest
 
-__Centering on "instructions,"__ we invite submissions covering various topics, including but not limited to the list below:
+Many challenging tasks for foundation models require synthesizing information over thousands to millions of individual pieces of data, which may take many forms, including images, text, audio, genomes, etc. Our workshop aims to convene researchers to address challenges in long-context foundation models, fostering discussions, developments, deployments, evaluation, and understanding of long-context foundation models across various AI disciplines, including (but not limited to):
 
-* __Modeling:__ algorithms and pipelines for learning from instructions and human feedback; designing training objectives and rewards; training and inference efficiency
-* __Data Collection:__ crowd-sourcing; synthetic data generation; data democratization
-* __Evaluation and Oversight__: effective and reliable oversight over existing models; enforcing guardrails and guarantees for model behaviors; interpretability and analysis
-* __Engineering and Open-sourcing:__ best practice in training, evaluation and deployment; open-sourcing efforts; openness and reproducibility
-* __Applications:__ long-context, multi-round and personalized instruction-following models
-* __Multimodal and Multidisciplinary:__ instruction following models for computer vision, robotics, games, art, etc.
-* __Limitations, Risks and Safety:__ bias and fairness; factuality and hallucination; safety concerns arising from instruction-following models
-* Other adjacent research topics (e.g., in-context learning, prompting, multi-task learning) that enable better responses to instructions in dynamic environments
+* New modeling, training, and data strategies.
+* Efficiency techniques for (long-context) foundation models.
+* Evaluation and understanding of long-context models.
+* Retrieval-augmented foundation models.
+* Interdisciplinary applications of LCFMs.
 
 <br>
 
