@@ -9,6 +9,9 @@ nav_order: 3
 
 # Accepted Papers
 
+To be announced
+
+<!--
 <br>
 __Links: [[OpenReview Portal]](https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/Instruction) [[NeurIPS Site]](https://neurips.cc/virtual/2023/workshop/66498)__
 <br>__Note:__ Authors are encouraged to contact us to add links to posters, videos, and other materials related to their paper.
@@ -235,3 +238,4 @@ __Links: [[OpenReview Portal]](https://openreview.net/group?id=NeurIPS.cc/2023/W
 [Balancing Multiple Objectives for Efficient Metaprompts for Data Labeling Tasks with Extensive Guidelines](https://openreview.net/forum?id=0U1ZHdWX3l)
 <br>Tobias Schnabel, Jennifer Neville
 
+-->
