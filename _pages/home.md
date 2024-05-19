@@ -53,11 +53,10 @@ Many challenging tasks for foundation models require synthesizing information ov
 ### Guidelines
 
 * Paper submission is hosted on [OpenReview](https://openreview.net/group?id=ICML.cc/2024/Workshop/LCFM).
-* We welcome papers __up to 8 pages (max)__, not including references or appendix. 
+* We welcome papers __up to 4 pages (max)__, not including references or appendix. 
   * Please use the provided LaTex template ([Overleaf](https://www.overleaf.com/read/vhpttzymwdrz#9642f5)) for your submission.
   * The paper should be anonymized and uploaded to OpenReview as a single PDF. 
   * You may use as many pages of references and appendix as you wish, but reviewers are not required to read the appendix. 
-  * We welcome __4-page extended abstract submissions__ as well.
   * Posting papers on preprint servers like ArXiv is permitted.
 * This is a __non-archival__ workshop. No submission will be indexed nor have archival proceedings.
   * Accepted papers will appear on the workshop website. They will also be available on OpenReview and ICML virtual site.
