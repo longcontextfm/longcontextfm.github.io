@@ -29,7 +29,7 @@ nav_order: 1
 
 * Submission Begins: May 20, 2024
   * Submission Portal: [OpenReview](https://openreview.net/group?id=ICML.cc/2024/Workshop/LCFM)
-  * Template: [Overleaf](https://www.overleaf.com/read/vhpttzymwdrz#9642f5)
+  * Template: [Overleaf](https://www.overleaf.com/read/jnvskgmhbgdx#1a9c21)
 * **Submission Deadline: May 31, 2024 (11:59pm, anywhere on earth)**
 * Notification of Acceptance: June 17, 2024
 * Camera-ready papers due: TBD
@@ -54,7 +54,7 @@ Many challenging tasks for foundation models require synthesizing information ov
 
 * Paper submission is hosted on [OpenReview](https://openreview.net/group?id=ICML.cc/2024/Workshop/LCFM).
 * We welcome papers __up to 4 pages (max)__, not including references or appendix. 
-  * Please use the provided LaTex template ([Overleaf](https://www.overleaf.com/read/vhpttzymwdrz#9642f5)) for your submission.
+  * Please use the provided LaTex template ([Overleaf](https://www.overleaf.com/read/jnvskgmhbgdx#1a9c21)) for your submission.
   * The paper should be anonymized and uploaded to OpenReview as a single PDF. 
   * You may use as many pages of references and appendix as you wish, but reviewers are not required to read the appendix. 
   * Posting papers on preprint servers like ArXiv is permitted.
