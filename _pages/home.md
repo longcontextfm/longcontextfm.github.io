@@ -84,12 +84,12 @@ Many challenging tasks for foundation models require synthesizing information ov
             <br>Carnegie Mellon University</p>
         </div>
         <div class="team-member">
-            <img src="/assets/img/organizers/tri.jpeg" alt="Name 4">
+            <img src="/assets/img/organizers/tri.png" alt="Name 4">
             <p><a href="https://tridao.me/">Tri Dao</a>
             <br>Together.AI., Princeton University</p>
         </div>
         <div class="team-member">
-            <img src="/assets/img/organizers/danqi.jpg" alt="Name 5">
+            <img src="/assets/img/organizers/danqi.png" alt="Name 5">
             <p><a href="https://www.cs.princeton.edu/~danqic/">Danqi Chen</a>
             <br>Princeton University</p>
         </div>
