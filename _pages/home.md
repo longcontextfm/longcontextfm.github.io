@@ -25,12 +25,12 @@ nav_order: 1
 <br>
 ### Important Dates
 
-<!-- :loudspeaker: __The submission deadline is extended to October 4!__ -->
+:loudspeaker: __The submission deadline is extended to June 6!__
 
 * Submission Begins: May 20, 2024
   * Submission Portal: [OpenReview](https://openreview.net/group?id=ICML.cc/2024/Workshop/LCFM)
   * Template: [Overleaf](https://www.overleaf.com/read/jnvskgmhbgdx#1a9c21)
-* **Submission Deadline: May 31, 2024 (11:59pm, anywhere on earth)**
+* Submission Deadline: ~~May 31, 2024~~ June 6, 2024 (11:59pm, anywhere on earth)
 * Notification of Acceptance: June 17, 2024
 * Camera-ready papers due: TBD
 * Workshop Date: July 26, 2024
