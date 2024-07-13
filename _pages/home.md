@@ -74,7 +74,7 @@ Many challenging tasks for foundation models require synthesizing information ov
             <p>EleutherAI</p>
         </div>
         <div class="team-member">
-            <img src="/assets/img/speakers/albert.png.png" alt="Name 2">
+            <img src="/assets/img/speakers/albert.png" alt="Name 2">
             <p><a href="https://www.linkedin.com/in/albert-gu-8ab677139">Albert Gu</a>
             <br>Carnegie Mellon University</p>
         </div>
@@ -106,7 +106,7 @@ Many challenging tasks for foundation models require synthesizing information ov
             <br>Meta</p>
         </div>
         <div class="team-member">
-            <img src="/assets/img/speakers/albert.png.png" alt="Name 2">
+            <img src="/assets/img/speakers/albert.png" alt="Name 2">
             <p><a href="https://www.linkedin.com/in/albert-gu-8ab677139">Albert Gu</a>
             <br>Carnegie Mellon University</p>
         </div>

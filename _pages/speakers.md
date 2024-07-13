@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 permalink: /speakers/
 title: Speakers
@@ -8,7 +8,7 @@ nav_order: 2
 
 ## Talks
 
-TBD
+TBD -->
 
 <!--
 <html>

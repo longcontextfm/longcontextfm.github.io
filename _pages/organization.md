@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 permalink: /organization/
 title: Organization
@@ -7,7 +7,7 @@ nav: true
 nav_order: 4
 ---
 
-# Organization
+# Organization -->
 
 <!--
 
@@ -116,7 +116,7 @@ We thank the following researchers who served as reviewers for the workshop:
 <br>
 
 -->
-
+<!-- 
 ## Organizers
 <html>
     <div class="team-container">
@@ -197,4 +197,4 @@ We thank the following researchers who served as reviewers for the workshop:
   height: 150px;
   padding: 10px;
 }
-</style>
+</style> -->
