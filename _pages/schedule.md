@@ -7,12 +7,9 @@ nav_order: 5
 ---
 # Schedule
 
-TBD
-
-<!--
 
 <br>
-
+<!-- 
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;|
 |-------------|:-------------|
 |__AM__&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||
@@ -40,6 +37,28 @@ TBD
 | | 6. Self-RAG: Self-reflective Retrieval Augmented Generation |
 | | 7. Delve into PPO: Implementation Matters for Stable RLHF |
 | | 8. FLASK: Fine-grained Language Model Evaluation based on Alignment Skill Sets |
-| 17:20-17:30 | Closing Remarks |
+| 17:20-17:30 | Closing Remarks | -->
 
--->
+
+|                |               |
+|----------------|:-------------:|
+| **AM**         |               |
+| 7:30-8:30      | Beijing-time Virtual Posters (1:30 PM in Beijing) |
+| 8:30-9:00      | Coffee Break  |
+| 9:00-9:15      | Intro to Workshop |
+| 9:15-9:45      | Invited Talk 1 - Mohit Iyyer |
+| 9:45-10:00     | Oral 1         |
+| 10:00-10:30    | Invited Talk 2 - Albert Gu |
+| 10:30-10:45    | Break for Networking and Poster Setup |
+| 10:45-11:30    | Posters        |
+| 11:30-12:00    | Invited Talk 3 - Stella Biderman |
+| 12:00-12:30    | Orals 2-3      |
+|                |               |
+| **PM**         |               |
+| 12:30-2:00     | Lunch          |
+| 2:00-3:00      | Panel Discussion |
+| 3:00-3:30      | Orals 4-5      |
+| 3:30-4:00      | Coffee Break   |
+| 4:00-4:30      | Invited Talk 4 - Beidi Chen |
+| 4:45-5:00      | Closing Remarks and Best Paper Award |
+| 6:00-7:00      | US-time Virtual Posters (9 AM in San Francisco) |

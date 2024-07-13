@@ -20,7 +20,7 @@ nav_order: 1
   </p>
 </div>
 </html> -->
-
+<!-- 
 # Call for Papers
 <br>
 ### Important Dates
@@ -38,15 +38,6 @@ nav_order: 1
 
 <br>
 
-### Topics of Interest
-
-Many challenging tasks for foundation models require synthesizing information over thousands to millions of individual pieces of data, which may take many forms, including images, text, audio, genomes, etc. Our workshop aims to convene researchers to address challenges in long-context foundation models, fostering discussions, developments, deployments, evaluation, and understanding of long-context foundation models across various AI disciplines. The topics of this workshop include (but not limited to):
-
-* New modeling, training, and data strategies.
-* Efficiency techniques for (long-context) foundation models.
-* Evaluation and understanding of long-context models.
-* Retrieval-augmented foundation models.
-* Interdisciplinary applications of LCFMs.
 
 <br>
 
@@ -62,7 +53,70 @@ Many challenging tasks for foundation models require synthesizing information ov
   * Accepted papers will appear on the workshop website. They will also be available on OpenReview and ICML virtual site.
   * We accept submissions that are under review at other venues (e.g., NeurIPS 2024), as long as this does not violate the dual-submission / anonymity policy of the other venue.
 * The review process will be double-blind.
-<br>
+<br> -->
+
+### Topics of Interest
+
+Many challenging tasks for foundation models require synthesizing information over thousands to millions of individual pieces of data, which may take many forms, including images, text, audio, genomes, etc. Our workshop aims to convene researchers to address challenges in long-context foundation models, fostering discussions, developments, deployments, evaluation, and understanding of long-context foundation models across various AI disciplines. The topics of this workshop include (but not limited to):
+
+* New modeling, training, and data strategies.
+* Efficiency techniques for (long-context) foundation models.
+* Evaluation and understanding of long-context models.
+* Retrieval-augmented foundation models.
+* Interdisciplinary applications of LCFMs.
+
+## Speakers
+<html>
+    <div class="team-container">
+        <div class="team-member">
+            <img src="/assets/img/speakers/stella.png" alt="Name 1">
+            <a href="https://www.stellabiderman.com/">Stella Biderman</a>
+            <p>EleutherAI</p>
+        </div>
+        <div class="team-member">
+            <img src="/assets/img/speakers/albert.png.png" alt="Name 2">
+            <p><a href="https://www.linkedin.com/in/albert-gu-8ab677139">Albert Gu</a>
+            <br>Carnegie Mellon University</p>
+        </div>
+        <div class="team-member">
+            <img src="/assets/img/speakers/mohit.png" alt="Name 3">
+            <p><a href="https://people.cs.umass.edu/~miyyer/">Mohit Iyyer</a>
+            <br>University of Massachusetts Amherst</p>
+        </div>
+        <div class="team-member">
+            <img src="/assets/img/speakers/beidi.png" alt="Name 4">
+            <p><a href="https://www.andrew.cmu.edu/user/beidic/">Beidi Chen</a>
+            <br>Carnegie Mellon University</p>
+        </div>
+    </div>
+</html>
+
+
+## Panelists
+<html>
+    <div class="team-container">
+         <div class="team-member">
+            <img src="/assets/img/speakers/beidi.png" alt="Name 4">
+            <p><a href="https://www.andrew.cmu.edu/user/beidic/">Beidi Chen</a>
+            <br>Carnegie Mellon University</p>
+        </div>
+        <div class="team-member">
+            <img src="/assets/img/speakers/angela.png" alt="Name 2">
+            <p><a href="https://ai.meta.com/people/423869000175606/angela-fan/">Angela Fan</a>
+            <br>Meta</p>
+        </div>
+        <div class="team-member">
+            <img src="/assets/img/speakers/albert.png.png" alt="Name 2">
+            <p><a href="https://www.linkedin.com/in/albert-gu-8ab677139">Albert Gu</a>
+            <br>Carnegie Mellon University</p>
+        </div>
+        <div class="team-member">
+            <img src="/assets/img/speakers/caglar.png" alt="Name 4">
+            <p><a href="https://www.caglarg.com/">Caglar Gulcehre</a>
+            <br>EPFL</p>
+        </div>
+    </div>
+</html>
 
 
 ## Organizers
@@ -75,7 +129,7 @@ Many challenging tasks for foundation models require synthesizing information ov
         </div>
         <div class="team-member">
             <img src="/assets/img/organizers/weijia.png" alt="Name 2">
-            <p><a href="https://swj0419.github.io/">Weijia Shi</a>
+            <p><a href="https://weijiashi.notion.site/">Weijia Shi</a>
             <br>University of Washington</p>
         </div>
         <div class="team-member">
