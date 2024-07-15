@@ -50,15 +50,15 @@ nav_order: 5
 | 9:45-10:00     | Oral 1         |
 | 10:00-10:30    | Invited Talk 2 - Albert Gu |
 | 10:30-10:45    | Break for Networking and Poster Setup |
-| 10:45-11:30    | Posters        |
+| 10:45-11:30    | Poster Session 1        |
 | 11:30-12:00    | Invited Talk 3 - Stella Biderman |
 | 12:00-12:30    | Orals 2-3      |
 |                |               |
 | **PM**         |               |
-| 12:30-2:00     | Lunch          |
-| 2:00-3:00      | Panel Discussion |
-| 3:00-3:30      | Orals 4-5      |
-| 3:30-4:00      | Coffee Break   |
+| 12:30-2:00     | Lunch Break         |
+| 2:00-2:30      | Panel Discussion |
+| 2:30-3:00      | Orals 4-5      |
+| 3:00-4:00      | Poster Session 2   |
 | 4:00-4:30      | Invited Talk 4 - Beidi Chen |
 | 4:45-5:00      | Closing Remarks and Best Paper Award |
 | 6:00-7:00      | US-time Virtual Posters (9 AM in San Francisco) |
