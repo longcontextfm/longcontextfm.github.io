@@ -7,6 +7,8 @@ nav_order: 1
 ---
 
 
+
+
 <!-- <html lang="en">
 <div class="news-box">
   <h4>Announcements</h4>
@@ -54,6 +56,10 @@ nav_order: 1
   * We accept submissions that are under review at other venues (e.g., NeurIPS 2024), as long as this does not violate the dual-submission / anonymity policy of the other venue.
 * The review process will be double-blind.
 <br> -->
+
+### Social Event at ICML 2024
+
+We are hosting a social event with our sponsor, <a href="https://www.together.ai/">Together AI</a>, on July 24 at 7PM. You can RSVP <a href="https://lu.ma/9fctiq9k?tk=XHdsS1">here</a>!
 
 ### Topics of Interest
 
@@ -160,6 +166,16 @@ Many challenging tasks for foundation models require synthesizing information ov
     </div>
 </html>
 
+## Sponsor
+
+<html>
+    <div class="team-container">
+        <div class="team-member">
+            <img src="/assets/img/together.png" alt="Together">
+            <a href="https://www.together.ai/">Together AI</a>
+        </div>
+    </div>
+</html>
 
 <style>
     /* Style for the team container */
