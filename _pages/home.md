@@ -59,7 +59,7 @@ nav_order: 1
 
 ### Social Event at ICML 2024
 
-We are hosting a social event with our sponsor, <a href="https://www.together.ai/">Together AI</a>, on July 24 at 7PM. You can RSVP <a href="https://lu.ma/9fctiq9k?tk=XHdsS1">here</a>!
+We are hosting a social event with our sponsor, <a href="https://www.together.ai/">Together AI</a>, on July 24 at 7PM. You can RSVP <a href="https://lu.ma/9fctiq9k">here</a>!
 
 ### Topics of Interest
 
@@ -146,7 +146,7 @@ Many challenging tasks for foundation models require synthesizing information ov
         <div class="team-member">
             <img src="/assets/img/organizers/tri.png" alt="Name 4">
             <p><a href="https://tridao.me/">Tri Dao</a>
-            <br>Together.AI., Princeton University</p>
+            <br>Together.AI, Princeton University</p>
         </div>
         <div class="team-member">
             <img src="/assets/img/organizers/danqi.png" alt="Name 5">
