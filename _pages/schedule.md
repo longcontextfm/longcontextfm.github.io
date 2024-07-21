@@ -59,8 +59,8 @@ nav_order: 5
 | **PM**         |               |
 | 12:30-2:00     | Lunch Break         |
 | 2:00-2:30      | Panel Discussion |
-| 2:30-2:45      | Orals 4: [Many-Shot In-Context Learning](https://openreview.net/forum?id=8ul3foe9yF)      |
-| 2:45-3:00      | Orals 5: [InfLLM: Training-Free Long-Context Extrapolation for LLMs with an Efficient Context Memory](https://openreview.net/forum?id=i5SEw4guQK)   |
+| 2:30-2:45      | Orals 4: [InfLLM: Training-Free Long-Context Extrapolation for LLMs with an Efficient Context Memory](https://openreview.net/forum?id=i5SEw4guQK)    |
+| 2:45-3:00      | Orals 5: [Many-Shot In-Context Learning](https://openreview.net/forum?id=8ul3foe9yF)     |
 | 3:00-4:00      | Poster Session 2   |
 | 4:00-4:30      | Invited Talk 4 - Stella Biderman |
 | 4:45-5:00      | Closing Remarks and Best Paper Award |
