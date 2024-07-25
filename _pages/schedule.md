@@ -63,5 +63,5 @@ nav_order: 5
 | 2:45-3:00      | Orals 5: [Many-Shot In-Context Learning](https://openreview.net/forum?id=8ul3foe9yF)     |
 | 3:00-4:00      | Poster Session 2   |
 | 4:00-4:30      | Invited Talk 4 - Stella Biderman |
-| 4:45-5:00      | Closing Remarks and Best Paper Award |
+| 4:30-4:45      | Closing Remarks and Best Paper Award |
 | 6:00-7:00      | US-time Virtual Posters (9 AM in San Francisco) |
