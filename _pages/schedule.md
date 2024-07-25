@@ -43,7 +43,7 @@ nav_order: 5
 |                |               |
 |----------------|-------------|
 | **AM**         |               |
-| 7:30-8:30      | Beijing-time Virtual Posters (1:30 PM in Beijing) |
+| 7:30-8:30      | Beijing-time Virtual Posters (1:30 PM in Beijing) [find link here](https://icml.cc/virtual/2024/workshop/29970) |
 | 8:30-9:00      | Coffee Break  |
 | 9:00-9:15      | Intro to Workshop |
 | 9:15-9:45      | Invited Talk 1 - Mohit Iyyer |
@@ -64,4 +64,4 @@ nav_order: 5
 | 3:00-4:00      | Poster Session 2   |
 | 4:00-4:30      | Invited Talk 4 - Stella Biderman |
 | 4:30-4:45      | Closing Remarks and Best Paper Award |
-| 6:00-7:00      | US-time Virtual Posters (9 AM in San Francisco) |
+| 6:00-7:00      | US-time Virtual Posters (9 AM in San Francisco) [find link here](https://icml.cc/virtual/2024/workshop/29970) |
