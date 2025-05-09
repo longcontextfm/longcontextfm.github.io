@@ -16,7 +16,7 @@ nav: false
 * Submission Deadline: May 22, 2024 (11:59pm, anywhere on earth)
 * Notification of Acceptance: June 2, 2024
 * Camera-ready papers due: June 9th
-* Workshop Date: TBD
+* Workshop Date: Saturday, July 19
 
 
 <br>
