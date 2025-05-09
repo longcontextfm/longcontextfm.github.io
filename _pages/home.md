@@ -8,7 +8,6 @@ nav_order: 1
 
 
 
-
 <!-- <html lang="en">
 <div class="news-box">
   <h4>Announcements</h4>
@@ -57,22 +56,24 @@ nav_order: 1
 * The review process will be double-blind.
 <br> -->
 
-### Social Event at ICML 2024
-
-We are hosting a social event with our sponsor, <a href="https://www.together.ai/">Together AI</a>, on July 24 at 7PM. You can RSVP <a href="https://lu.ma/9fctiq9k">here</a>!
-
 ### Topics of Interest
 
-Many challenging tasks for foundation models require synthesizing information over thousands to millions of individual pieces of data, which may take many forms, including images, text, audio, genomes, etc. Our workshop aims to convene researchers to address challenges in long-context foundation models, fostering discussions, developments, deployments, evaluation, and understanding of long-context foundation models across various AI disciplines. The topics of this workshop include (but not limited to):
+Many challenging tasks for foundation models require synthesizing information over thousands to millions of individual pieces of data, which may take many forms, including images, text, audio, genomes, etc. Enabling foundation models to process long contexts introduces key
+challenges in computational efficiency, data quality and quantity, and evaluation. Our workshop aims to convene researchers to address these challenges, fostering discussions, developments, and evaluation of
+long-context foundation models across various AI disciplines, including but not limited to:
 
 * New modeling, training, and data strategies.
 * Efficiency techniques for (long-context) foundation models.
 * Evaluation and understanding of long-context models.
 * Retrieval-augmented foundation models.
-* Interdisciplinary applications of LCFMs.
+* Long-context reasoning.
+* Long-context multimodal learning.
+* Long-range AI for science.
+* What’s next for long-context foundation models?
 
 ## Speakers
-<html>
+TBA
+<!-- <html>
     <div class="team-container">
         <div class="team-member">
             <img src="/assets/img/speakers/stella.png" alt="Name 1">
@@ -95,11 +96,12 @@ Many challenging tasks for foundation models require synthesizing information ov
             <br>Carnegie Mellon University</p>
         </div>
     </div>
-</html>
+</html> -->
 
 
 ## Panelists
-<html>
+TBA
+<!-- <html>
     <div class="team-container">
          <div class="team-member">
             <img src="/assets/img/speakers/beidi.png" alt="Name 4">
@@ -122,21 +124,21 @@ Many challenging tasks for foundation models require synthesizing information ov
             <br>EPFL</p>
         </div>
     </div>
-</html>
+</html> -->
 
 
 ## Organizers
 <html>
     <div class="team-container">
         <div class="team-member">
-            <img src="/assets/img/organizers/tianyu.jpeg" alt="Name 1">
-            <a href="https://gaotianyu.xyz/about/">Tianyu Gao</a>
-            <p>Princeton University</p>
+            <img src="/assets/img/organizers/zexue.jpg" alt="Name 1">
+            <p><a href="https://zexuehe.github.io/">Zexue He</a>
+            <br>MIT-IBM <br> MIT</p>
         </div>
         <div class="team-member">
-            <img src="/assets/img/organizers/weijia.png" alt="Name 2">
-            <p><a href="https://weijiashi.notion.site/">Weijia Shi</a>
-            <br>University of Washington</p>
+            <img src="/assets/img/organizers/tianyu.jpeg" alt="Name 2">
+            <a href="https://gaotianyu.xyz/about/">Tianyu Gao</a>
+            <p>Princeton University</p>
         </div>
         <div class="team-member">
             <img src="/assets/img/organizers/amanda.png" alt="Name 3">
@@ -144,9 +146,9 @@ Many challenging tasks for foundation models require synthesizing information ov
             <br>Carnegie Mellon University</p>
         </div>
         <div class="team-member">
-            <img src="/assets/img/organizers/tri.png" alt="Name 4">
-            <p><a href="https://tridao.me/">Tri Dao</a>
-            <br>Together.AI, Princeton University</p>
+            <img src="/assets/img/organizers/yuandong.png" alt="Name 4">
+            <p><a href="https://tridao.me/">Yuandong Tian</a>
+            <br>Meta</p>
         </div>
         <div class="team-member">
             <img src="/assets/img/organizers/danqi.png" alt="Name 5">
@@ -159,14 +161,14 @@ Many challenging tasks for foundation models require synthesizing information ov
             <br>Carnegie Mellon University</p>
         </div>
         <div class="team-member">
-            <img src="/assets/img/organizers/chris.jpg" alt="Name 7">
-            <p><a href="https://cs.stanford.edu/~chrismre/">Christopher Ré</a>
-            <br>Stanford University</p>
+            <img src="/assets/img/organizers/rogerio.jpg" alt="Name 7">
+            <p><a href="https://www.rogerioferis.org/">Rogerio Feris</a>
+            <br>MIT-IBM</p>
         </div>
     </div>
 </html>
 
-## Sponsor
+<!-- ## Sponsor
 
 <html>
     <div class="team-container">
@@ -175,7 +177,7 @@ Many challenging tasks for foundation models require synthesizing information ov
             <a href="https://www.together.ai/">Together AI</a>
         </div>
     </div>
-</html>
+</html> -->
 
 <style>
     /* Style for the team container */
