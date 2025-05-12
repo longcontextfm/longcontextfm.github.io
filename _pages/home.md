@@ -54,6 +54,19 @@ nav_order: 1
 * The review process will be double-blind.
 <br> -->
 
+
+### Guidelines
+
+* We welcome papers __up to 4 pages (max)__, not including references or appendix. 
+  * The paper should be anonymized and uploaded to OpenReview as a single PDF. 
+  * You may use as many pages of references and appendix as you wish, but reviewers are not required to read the appendix. 
+  * Posting papers on preprint servers like ArXiv is permitted.
+* This is a __non-archival__ workshop. No submission will be indexed nor have archival proceedings.
+  * Accepted papers will appear on the workshop website. They will also be available on OpenReview and ICML virtual site.
+  * We accept submissions that are under review at other venues (e.g., NeurIPS 2025), as long as this does not violate the dual-submission / anonymity policy of the other venue.
+* The review process will be double-blind.
+<br>
+
 ### Topics of Interest
 
 Many challenging tasks for foundation models require synthesizing information over thousands to millions of individual pieces of data, which may take many forms, including images, text, audio, genomes, etc. Enabling foundation models to process long contexts introduces key
