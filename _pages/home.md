@@ -157,6 +157,11 @@ TBA
             <br>Carnegie Mellon University</p>
         </div>
         <div class="team-member">
+            <img src="/assets/img/howard.png" alt="Name 2">
+            <a href="https://howard-yen.github.io/#About">Howard Yen</a>
+            <p>Princeton University</p>
+        </div>
+        <div class="team-member">
             <img src="/assets/img/organizers/yuandong.png" alt="Name 4">
             <p><a href="https://tridao.me/">Yuandong Tian</a>
             <br>Meta</p>
