@@ -29,7 +29,7 @@ nav_order: 1
 * Submission Begins: May 10, 2025
   * Submission Portal: [OpenReview](https://openreview.net/group?id=ICML.cc/2025/Workshop/LCFM)
   * Template: [Overleaf](https://www.overleaf.com/read/wcfywyhzfppz#e0be4f)
-* Submission Deadline: ~~May 22~~ May 26, 2025 (11:59pm, anywhere on earth)
+* Submission Deadline: ~~May 22~~ May 28, 2025 (<b>11:59 am</b>, anywhere on earth)
 * Notification of Acceptance: June 9, 2025
 * Workshop Date: Saturday, July 19
 
