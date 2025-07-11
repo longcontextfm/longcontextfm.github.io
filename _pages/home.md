@@ -7,7 +7,8 @@ nav_order: 1
 ---
 
 # Announcements
-Workshop schedule</b> is now available! 
+
+<b>[Workshop schedule](https://longcontextfm.github.io/schedule/)</b> is now available! 
 <br><br><br>
 
 
