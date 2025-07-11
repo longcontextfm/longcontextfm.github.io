@@ -8,19 +8,19 @@ nav_order: 1
 
 
 
-<!-- <html lang="en">
+<html lang="en">
 <div class="news-box">
   <h4>Announcements</h4>
-  <br>
-  <p>1. <b>Recordings</b> are available on the <a href="https://neurips.cc/virtual/2023/workshop/66498" target="_blank">NeurIPS website</a> (NeurIPS registration required). They will be made public after one month (Jan 2024).<br>
-  2. <b>Talk slides</b> are posted on the <a href="/speakers">speakers page</a>.<br>
+  <!-- <br> -->
+  <p><b>Workshop schedule</b> is now available! 
+  <!-- 2. <b>Talk slides</b> are posted on the <a href="/speakers">speakers page</a>.<br>
   3. Congratuations to <a href="#paper-awards">paper award winners</a>!<br>
   4. <b>Workshop highlights and photos</b> can be found on our <a href="https://twitter.com/itif_workshop">Twitter</a>.
   <br><br>
-  Thank you for joining us at NeurIPS 2023! Hope to see you next time! 
+  Thank you for joining us at NeurIPS 2023! Hope to see you next time!  -->
   </p>
 </div>
-</html> -->
+</html> 
 
 # Call for Papers
 <br>
@@ -82,18 +82,49 @@ long-context foundation models across various AI disciplines, including but not 
 * What’s next for long-context foundation models?
 
 ## Speakers
-TBA
-<!-- <html>
+<html>
     <div class="team-container">
         <div class="team-member">
-            <img src="/assets/img/speakers/stella.png" alt="Name 1">
-            <a href="https://www.stellabiderman.com/">Stella Biderman</a>
-            <p>EleutherAI</p>
+            <img src="/assets/img/speakers/jiajun.png" alt="Name 5">
+            <p><a href="https://jiajunwu.com/"> Jiajun Wu</a>
+            <br>Stanford University</p>
         </div>
         <div class="team-member">
-            <img src="/assets/img/speakers/albert.png" alt="Name 2">
-            <p><a href="https://www.linkedin.com/in/albert-gu-8ab677139">Albert Gu</a>
+            <img src="/assets/img/speakers/tri.png" alt="Name 1">
+            <p> <a href="https://tridao.me/">Tri Dao</a>
+            <p>Princeton University <br> Together AI </p>
+        </div>
+        <div class="team-member">
+            <img src="/assets/img/speakers/pangwei.png" alt="Name 2">
+            <p><a href="https://koh.pw/"> Pang Wei Koh</a>
+            <br>University of Washington</p>
+        </div>
+        <div class="team-member">
+            <img src="/assets/img/speakers/dima.png" alt="Name 3">
+            <p><a href="https://developer.nvidia.com/blog/author/drekesh/">Dima Rekesh</a>
+            <br>NVIDIA</p>
+        </div>
+        <div class="team-member">
+            <img src="/assets/img/speakers/Volodymyr.png" alt="Name 4">
+            <p><a href="https://www.cs.cornell.edu/~kuleshov/">Volodymyr Kuleshov</a>
+            <br>Cornell University <br> Cornell Tech University</p>
+        </div>
+    </div>
+</html>
+
+
+## Panelists
+<html>
+    <div class="team-container">
+         <div class="team-member">
+            <img src="/assets/img/speakers/beidi.png" alt="Name 1">
+            <p><a href="https://www.andrew.cmu.edu/user/beidic/">Beidi Chen</a>
             <br>Carnegie Mellon University</p>
+        </div>
+        <div class="team-member">
+            <img src="/assets/img/organizers/yuandong.png" alt="Name 2">
+            <p><a href="https://tridao.me/">Yuandong Tian</a>
+            <br>Meta</p>
         </div>
         <div class="team-member">
             <img src="/assets/img/speakers/mohit.png" alt="Name 3">
@@ -101,40 +132,12 @@ TBA
             <br>University of Massachusetts Amherst</p>
         </div>
         <div class="team-member">
-            <img src="/assets/img/speakers/beidi.png" alt="Name 4">
-            <p><a href="https://www.andrew.cmu.edu/user/beidic/">Beidi Chen</a>
-            <br>Carnegie Mellon University</p>
+            <img src="/assets/img/speakers/dima.png" alt="Name 4">
+            <p><a href="https://developer.nvidia.com/blog/author/drekesh/">Dima Rekesh</a>
+            <br>NVIDIA</p>
         </div>
     </div>
-</html> -->
-
-
-## Panelists
-TBA
-<!-- <html>
-    <div class="team-container">
-         <div class="team-member">
-            <img src="/assets/img/speakers/beidi.png" alt="Name 4">
-            <p><a href="https://www.andrew.cmu.edu/user/beidic/">Beidi Chen</a>
-            <br>Carnegie Mellon University</p>
-        </div>
-        <div class="team-member">
-            <img src="/assets/img/speakers/angela.png" alt="Name 2">
-            <p><a href="https://ai.meta.com/people/423869000175606/angela-fan/">Angela Fan</a>
-            <br>Meta</p>
-        </div>
-        <div class="team-member">
-            <img src="/assets/img/speakers/albert.png" alt="Name 2">
-            <p><a href="https://www.linkedin.com/in/albert-gu-8ab677139">Albert Gu</a>
-            <br>Carnegie Mellon University</p>
-        </div>
-        <div class="team-member">
-            <img src="/assets/img/speakers/caglar.png" alt="Name 4">
-            <p><a href="https://www.caglarg.com/">Caglar Gulcehre</a>
-            <br>EPFL</p>
-        </div>
-    </div>
-</html> -->
+</html>
 
 
 ## Organizers
@@ -147,7 +150,7 @@ TBA
         </div>
         <div class="team-member">
             <img src="/assets/img/organizers/tianyu.jpeg" alt="Name 2">
-            <a href="https://gaotianyu.xyz/about/">Tianyu Gao</a>
+            <p><a href="https://gaotianyu.xyz/about/">Tianyu Gao</a>
             <p>Princeton University</p>
         </div>
         <div class="team-member">
@@ -156,27 +159,27 @@ TBA
             <br>Carnegie Mellon University</p>
         </div>
         <div class="team-member">
-            <img src="/assets/img/howard.png" alt="Name 2">
-            <a href="https://howard-yen.github.io/#About">Howard Yen</a>
+            <img src="/assets/img/howard.png" alt="Name 4">
+            <p><a href="https://howard-yen.github.io/#About">Howard Yen</a>
             <p>Princeton University</p>
         </div>
         <div class="team-member">
-            <img src="/assets/img/organizers/yuandong.png" alt="Name 4">
+            <img src="/assets/img/organizers/yuandong.png" alt="Name 5">
             <p><a href="https://tridao.me/">Yuandong Tian</a>
             <br>Meta</p>
         </div>
         <div class="team-member">
-            <img src="/assets/img/organizers/danqi.png" alt="Name 5">
+            <img src="/assets/img/organizers/danqi.png" alt="Name 6">
             <p><a href="https://www.cs.princeton.edu/~danqic/">Danqi Chen</a>
             <br>Princeton University</p>
         </div>
         <div class="team-member">
-            <img src="/assets/img/organizers/graham.jpeg" alt="Name 6">
+            <img src="/assets/img/organizers/graham.jpeg" alt="Name 7">
             <p><a href="https://phontron.com/">Graham Neubig</a>
             <br>Carnegie Mellon University</p>
         </div>
         <div class="team-member">
-            <img src="/assets/img/organizers/rogerio.jpg" alt="Name 7">
+            <img src="/assets/img/organizers/rogerio.jpg" alt="Name 8">
             <p><a href="https://www.rogerioferis.org/">Rogerio Feris</a>
             <br>MIT-IBM</p>
         </div>

@@ -9,7 +9,7 @@ nav_order: 5
 
 
 <br>
-TBD 
+<!-- TBD  -->
 <!-- 
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;|
 |-------------|:-------------|
@@ -40,29 +40,27 @@ TBD
 | | 8. FLASK: Fine-grained Language Model Evaluation based on Alignment Skill Sets |
 | 17:20-17:30 | Closing Remarks | -->
 
-<!-- 
-|                |               |
-|----------------|-------------|
-| **AM**         |               |
-| 7:30-8:30      | Beijing-time Virtual Posters (1:30 PM in Beijing) [find link here](https://icml.cc/virtual/2024/workshop/29970) |
-| 8:30-9:00      | Coffee Break  |
-| 9:00-9:15      | Intro to Workshop |
-| 9:15-9:45      | Invited Talk 1 - Mohit Iyyer |
-| 9:45-10:00     | Oral 1: [Mitigate Position Bias in Large Language Models via Scaling a Single Dimension](https://openreview.net/forum?id=mo7cdmBlUi)        |
-| 10:00-10:30&nbsp;&nbsp;&nbsp;&nbsp;      | Invited Talk 2 - Beidi Chen |
+
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;|
+|-------------|:-------------|
+|__AM__&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||
+| 9:10-9:15     | Intro to Workshop  |
+| 9:15-9:45     | Invited Talk 1 - Tri Dao |
+| 9:45-10:00    | Oral 1: [Kinetics: Rethinking Test-Time Scaling Laws](https://arxiv.org/abs/2506.05333)        |
+| 10:00-10:30   | Invited Talk 2 -  Pang Wei Koh|
 | 10:30-10:45    | Break for Networking and Poster Setup |
-| 10:45-11:30    | Poster Session 1        |
-| 11:30-12:00    | Invited Talk 3 - Albert Gu |
-| 12:00-12:15    | Orals 2: [ZigMa: A DiT-style Zigzag Mamba Diffusion Model](https://openreview.net/forum?id=Uu7miVxZI6)      |
-| 12:15-12:30     | Orals 3: [Improved Algorithms for Kernel Matrix-Vector Multiplication](https://openreview.net/forum?id=7CCzyEtZXH)
-  |
+| 10:45-11:30    | Poster Session 1   (with US virtual posters together).  [Link TBA]()    |
+| 11:30-12:00    | Invited Talk 3 - Dima Rekesh |
+| 12:00-12:15    | Orals 2: [PhantomWiki: On-Demand Datasets for Reasoning and Retrieval Evaluation](https://arxiv.org/abs/2502.20377)      |
+| 12:15-12:30     | Orals 3: [IceFormer: Accelerated Inference with Long-Sequence Transformers on CPUs](https://arxiv.org/abs/2405.02842)   |
 |                |               |
 | **PM**         |               |
 | 12:30-2:00     | Lunch Break         |
-| 2:00-2:30      | Panel Discussion |
-| 2:30-2:45      | Orals 4: [InfLLM: Training-Free Long-Context Extrapolation for LLMs with an Efficient Context Memory](https://openreview.net/forum?id=i5SEw4guQK)    |
-| 2:45-3:00      | Orals 5: [Many-Shot In-Context Learning](https://openreview.net/forum?id=8ul3foe9yF)     |
-| 3:00-4:00      | Poster Session 2   |
-| 4:00-4:30      | Invited Talk 4 - Stella Biderman |
-| 4:30-4:45      | Closing Remarks and Best Paper Award |
-| 6:00-7:00      | US-time Virtual Posters (9 AM in San Francisco) [find link here](https://icml.cc/virtual/2024/workshop/29970) | -->
+| 2:00-2:30      | Panel Discussion: *How to evaluate long-context foundation models?* |
+| 2:30-3:00    | Invited Talk 4 - Volodymyr Kuleshov |
+| 3:00-3:30    | Invited Talk 5 - Jiajun Wu |
+| 3:30-4:30   | Poster Session 2   (with US virtual posters together).  [Link TBA]()   |
+| 4:30-4:45      | Orals 4: [e3: Learning to Explore Enables Extrapolation of Test-Time Compute for LLMs](https://arxiv.org/abs/2506.09026)    |
+| 4:45-5:00      | Orals 5: [OracleKV: Oracle Guidance for Question-Independent KV Cache Compression](https://openreview.net/pdf?id=KHM2YOGgX9)     |
+| 5:00-5:05      | Closing Remarks and Best Paper Award |
+| 6:00-7:00      | Beijing-Time Virtual Posters (9 AM in Beijing). [Link TBA]() |
