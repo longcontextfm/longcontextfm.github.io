@@ -6,21 +6,24 @@ title: <h3  align="center">Workshop on Long Context Foundation Models (LCFM)</h3
 nav_order: 1
 ---
 
+# Announcements
+Workshop schedule</b> is now available! 
+<br><br><br>
 
 
-<html lang="en">
+<!-- <html lang="en">
 <div class="news-box">
   <h4>Announcements</h4>
-  <!-- <br> -->
+  <br>
   <p><b>Workshop schedule</b> is now available! 
-  <!-- 2. <b>Talk slides</b> are posted on the <a href="/speakers">speakers page</a>.<br>
+  2. <b>Talk slides</b> are posted on the <a href="/speakers">speakers page</a>.<br>
   3. Congratuations to <a href="#paper-awards">paper award winners</a>!<br>
   4. <b>Workshop highlights and photos</b> can be found on our <a href="https://twitter.com/itif_workshop">Twitter</a>.
   <br><br>
-  Thank you for joining us at NeurIPS 2023! Hope to see you next time!  -->
+  Thank you for joining us at NeurIPS 2023! Hope to see you next time! 
   </p>
 </div>
-</html> 
+</html>  -->
 
 # Call for Papers
 <br>
@@ -85,27 +88,27 @@ long-context foundation models across various AI disciplines, including but not 
 <html>
     <div class="team-container">
         <div class="team-member">
-            <img src="/assets/img/speakers/jiajun.png" alt="Name 5">
+            <img src="/assets/img/speakers/jiajun.png" alt="Name 1">
             <p><a href="https://jiajunwu.com/"> Jiajun Wu</a>
             <br>Stanford University</p>
         </div>
         <div class="team-member">
-            <img src="/assets/img/speakers/tri.png" alt="Name 1">
+            <img src="/assets/img/speakers/tri.png" alt="Name 2">
             <p> <a href="https://tridao.me/">Tri Dao</a>
-            <p>Princeton University <br> Together AI </p>
+             <br> Princeton University <br> Together AI </p>
         </div>
         <div class="team-member">
-            <img src="/assets/img/speakers/pangwei.png" alt="Name 2">
+            <img src="/assets/img/speakers/pangwei.png" alt="Name 3">
             <p><a href="https://koh.pw/"> Pang Wei Koh</a>
             <br>University of Washington</p>
         </div>
         <div class="team-member">
-            <img src="/assets/img/speakers/dima.png" alt="Name 3">
+            <img src="/assets/img/speakers/dima.png" alt="Name 4">
             <p><a href="https://developer.nvidia.com/blog/author/drekesh/">Dima Rekesh</a>
             <br>NVIDIA</p>
         </div>
         <div class="team-member">
-            <img src="/assets/img/speakers/Volodymyr.png" alt="Name 4">
+            <img src="/assets/img/speakers/Volodymyr.png" alt="Name 5">
             <p><a href="https://www.cs.cornell.edu/~kuleshov/">Volodymyr Kuleshov</a>
             <br>Cornell University <br> Cornell Tech University</p>
         </div>
@@ -151,7 +154,7 @@ long-context foundation models across various AI disciplines, including but not 
         <div class="team-member">
             <img src="/assets/img/organizers/tianyu.jpeg" alt="Name 2">
             <p><a href="https://gaotianyu.xyz/about/">Tianyu Gao</a>
-            <p>Princeton University</p>
+            <br>Princeton University</p>
         </div>
         <div class="team-member">
             <img src="/assets/img/organizers/amanda.png" alt="Name 3">
