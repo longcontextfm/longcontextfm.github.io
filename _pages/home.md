@@ -164,7 +164,7 @@ long-context foundation models across various AI disciplines, including but not 
         <div class="team-member">
             <img src="/assets/img/howard.png" alt="Name 4">
             <p><a href="https://howard-yen.github.io/#About">Howard Yen</a>
-            <p>Princeton University</p>
+            <br>Princeton University</p>
         </div>
         <div class="team-member">
             <img src="/assets/img/organizers/yuandong.png" alt="Name 5">
