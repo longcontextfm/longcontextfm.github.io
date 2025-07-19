@@ -62,5 +62,5 @@ nav_order: 5
 | 3:30-4:30   | Poster Session 2   (with US virtual posters together).  [Link TBA]()   |
 | 4:30-4:45      | Orals 4: [e3: Learning to Explore Enables Extrapolation of Test-Time Compute for LLMs](https://arxiv.org/abs/2506.09026)    |
 | 4:45-5:00      | Orals 5: [OracleKV: Oracle Guidance for Question-Independent KV Cache Compression](https://openreview.net/pdf?id=KHM2YOGgX9)     |
-| 5:00-5:05      | Closing Remarks and Best Paper Award |
+| 5:00-5:05      | Closing Remarks |
 | 6:00-7:00      | Beijing-Time Virtual Posters (9 AM in Beijing). [Link TBA]() |
