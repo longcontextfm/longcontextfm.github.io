@@ -121,11 +121,6 @@ long-context foundation models across various AI disciplines, including but not 
 <html>
     <div class="team-container">
          <div class="team-member">
-            <img src="/assets/img/speakers/beidi.png" alt="Name 1">
-            <p><a href="https://www.andrew.cmu.edu/user/beidic/">Beidi Chen</a>
-            <br>Carnegie Mellon University</p>
-        </div>
-        <div class="team-member">
             <img src="/assets/img/organizers/yuandong.png" alt="Name 2">
             <p><a href="https://tridao.me/">Yuandong Tian</a>
             <br>Meta</p>
@@ -139,6 +134,11 @@ long-context foundation models across various AI disciplines, including but not 
             <img src="/assets/img/speakers/dima.png" alt="Name 4">
             <p><a href="https://developer.nvidia.com/blog/author/drekesh/">Dima Rekesh</a>
             <br>NVIDIA</p>
+        </div>
+        <div class="team-member">
+            <img src="/assets/img/speakers/xinyu.png" alt="Name 1">
+            <p><a href="https://www.andrew.cmu.edu/user/beidic/">Xinyu Yang</a>
+            <br>Carnegie Mellon University</p>
         </div>
     </div>
 </html>
