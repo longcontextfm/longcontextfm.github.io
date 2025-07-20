@@ -137,7 +137,7 @@ long-context foundation models across various AI disciplines, including but not 
         </div>
         <div class="team-member">
             <img src="/assets/img/speakers/xinyu.png" alt="Name 1">
-            <p><a href="https://www.andrew.cmu.edu/user/beidic/">Xinyu Yang</a>
+            <p><a href="https://xinyuyang.me/">Xinyu Yang</a>
             <br>Carnegie Mellon University</p>
         </div>
     </div>
