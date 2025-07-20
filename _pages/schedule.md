@@ -63,4 +63,4 @@ nav_order: 5
 | 4:30-4:45      | Orals 4: [e3: Learning to Explore Enables Extrapolation of Test-Time Compute for LLMs](https://arxiv.org/abs/2506.09026)    |
 | 4:45-5:00      | Orals 5: [OracleKV: Oracle Guidance for Question-Independent KV Cache Compression](https://openreview.net/pdf?id=KHM2YOGgX9)     |
 | 5:00-5:05      | Closing Remarks |
-| 6:00-7:00      | Beijing-Time Virtual Posters (9 AM in Beijing). [Virtual poster link](https://app.gather.town/invite?token=cAAS0KqMTBmSYP5hk9_z) |
+| 6:00-7:00      | Beijing-Time Virtual Posters (9 AM in Beijing). **Updated!** [New virtual poster link!](https://app.gather.town/invite?token=mD9DykvxR-uS-h-k6HaH) |
