@@ -6,73 +6,58 @@ title: <h3  align="center">Workshop on Long Context Foundation Models (LCFM)</h3
 nav_order: 1
 ---
 
-# Announcements
+<!-- # Announcements
 
-<b>[Workshop schedule](https://longcontextfm.github.io/schedule/)</b> is now available! 
-<br><br><br>
+Workshop schedule to be released.
+<br><br><br> -->
 
-
-<!-- <html lang="en">
-<div class="news-box">
-  <h4>Announcements</h4>
-  <br>
-  <p><b>Workshop schedule</b> is now available! 
-  2. <b>Talk slides</b> are posted on the <a href="/speakers">speakers page</a>.<br>
-  3. Congratuations to <a href="#paper-awards">paper award winners</a>!<br>
-  4. <b>Workshop highlights and photos</b> can be found on our <a href="https://twitter.com/itif_workshop">Twitter</a>.
-  <br><br>
-  Thank you for joining us at NeurIPS 2023! Hope to see you next time! 
-  </p>
-</div>
-</html>  -->
 
 # Call for Papers
 <br>
 ### Important Dates
 
-* Submission Begins: May 10, 2025
-  * Submission Portal: [OpenReview](https://openreview.net/group?id=ICML.cc/2025/Workshop/LCFM)
-  * Template: [Overleaf](https://www.overleaf.com/read/wcfywyhzfppz#e0be4f)
-* Submission Deadline: ~~May 22~~ May 28, 2025 (<b>11:59 am</b>, anywhere on earth)
-* Notification of Acceptance: June 9, 2025
-* Workshop Date: Saturday, July 19
+* Submission Deadline: September 10, 2026
+* Review Period: September 11–25, 2026
+* Decisions: September 29, 2026
 
 
 <br>
 
-<!-- 
-<br>
-
 ### Guidelines
 
-* Paper submission is hosted on [OpenReview](https://openreview.net/group?id=ICML.cc/2024/Workshop/LCFM).
-* We welcome papers __up to 4 pages (max)__, not including references or appendix. 
-  * Please use the provided LaTex template ([Overleaf](https://www.overleaf.com/read/jnvskgmhbgdx#1a9c21)) for your submission.
+* Paper submission is hosted on [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2026/Workshop/LCFM).
+* We welcome short papers __up to 4 pages__ or long papers __up to 8 pages__, not including references or appendix.
   * The paper should be anonymized and uploaded to OpenReview as a single PDF. 
   * You may use as many pages of references and appendix as you wish, but reviewers are not required to read the appendix. 
   * Posting papers on preprint servers like ArXiv is permitted.
 * This is a __non-archival__ workshop. No submission will be indexed nor have archival proceedings.
-  * Accepted papers will appear on the workshop website. They will also be available on OpenReview and ICML virtual site.
-  * We accept submissions that are under review at other venues (e.g., NeurIPS 2024), as long as this does not violate the dual-submission / anonymity policy of the other venue.
-* The review process will be double-blind.
-<br> -->
-
-
-### Guidelines
-
-* We welcome papers __up to 4 pages (max)__, not including references or appendix. 
-  * The paper should be anonymized and uploaded to OpenReview as a single PDF. 
-  * You may use as many pages of references and appendix as you wish, but reviewers are not required to read the appendix. 
-  * Posting papers on preprint servers like ArXiv is permitted.
-* This is a __non-archival__ workshop. No submission will be indexed nor have archival proceedings.
-  * Accepted papers will appear on the workshop website. They will also be available on OpenReview and ICML virtual site.
-  * We accept submissions that are under review at other venues (e.g., NeurIPS 2025), as long as this does not violate the dual-submission / anonymity policy of the other venue.
+  * Accepted papers will appear on the workshop website. They will also be available on OpenReview and the NeurIPS virtual site.
+  * We accept submissions that are under review at other venues (e.g., ICLR 2027), as long as this does not violate the dual-submission / anonymity policy of the other venue.
 * The review process will be double-blind.
 <br>
 
 ### Topics of Interest
 
-Many challenging tasks for foundation models require synthesizing information over thousands to millions of individual pieces of data, which may take many forms, including images, text, audio, genomes, etc. Enabling foundation models to process long contexts introduces key
+Recent progress in foundation models has pushed context windows to 128K, 1M tokens, and beyond. 
+Yet the next challenge is not only making context longer, but enabling models to use it effectively
+in long-horizon agentic frameworks. What are the key challenges in building reliable long-context
+agents? How can models manage growing reasoning traces and feedbacks from environment? How can
+long context improve planning, memory, tool use, multimodal interaction, and sustained reasoning in
+demanding domains such as AI for scientific discovery? 
+<!-- We welcome research on long-context agents
+across modeling, evaluation, and deployment, including position pieces. -->
+We welcome works that address these challenges, foster discussion, developments, and evaluation of 
+long-context foundation models across disciplines, including but not limited to:
+
+* Long-context and long-horizon agentic foundation models
+* Novel modeling and training approaches
+* Efficiency techniques for foundation models
+* Robust evaluation
+* Long-context reasoning
+* Long-context multi-modal learning
+* Long-horizon AI for science
+
+<!-- Many challenging tasks for foundation models require synthesizing information over thousands to millions of individual pieces of data, which may take many forms, including images, text, audio, genomes, etc. Enabling foundation models to process long contexts introduces key
 challenges in computational efficiency, data quality and quantity, and evaluation. Our workshop aims to convene researchers to address these challenges, fostering discussions, developments, and evaluation of
 long-context foundation models across various AI disciplines, including but not limited to:
 
@@ -83,10 +68,12 @@ long-context foundation models across various AI disciplines, including but not 
 * Long-context reasoning.
 * Long-context multimodal learning.
 * Long-range AI for science.
-* What’s next for long-context foundation models?
+* What’s next for long-context foundation models? -->
 
 ## Speakers
-<html>
+
+To be announced.
+<!-- <html>
     <div class="team-container">
         <div class="team-member">
             <img src="/assets/img/speakers/jiajun.png" alt="Name 1">
@@ -114,11 +101,13 @@ long-context foundation models across various AI disciplines, including but not 
             <br>Cornell University <br> Cornell Tech University</p>
         </div>
     </div>
-</html>
+</html> -->
 
 
 ## Panelists
-<html>
+
+To be announced.
+<!-- <html>
     <div class="team-container">
          <div class="team-member">
             <img src="/assets/img/organizers/yuandong.png" alt="Name 2">
@@ -141,7 +130,7 @@ long-context foundation models across various AI disciplines, including but not 
             <br>Carnegie Mellon University</p>
         </div>
     </div>
-</html>
+</html> -->
 
 
 ## Organizers
@@ -150,11 +139,16 @@ long-context foundation models across various AI disciplines, including but not 
         <div class="team-member">
             <img src="/assets/img/organizers/zexue.jpg" alt="Name 1">
             <p><a href="https://zexuehe.github.io/">Zexue He</a>
-            <br>MIT-IBM <br> MIT</p>
+            <br>Stanford University</p>
         </div>
-        <div class="team-member">
+        <!-- <div class="team-member">
             <img src="/assets/img/organizers/tianyu.jpeg" alt="Name 2">
             <p><a href="https://gaotianyu.xyz/about/">Tianyu Gao</a>
+            <br>Princeton University</p>
+        </div> -->
+        <div class="team-member">
+            <img src="/assets/img/howard.png" alt="Name 2">
+            <p><a href="https://howard-yen.github.io/#About">Howard Yen</a>
             <br>Princeton University</p>
         </div>
         <div class="team-member">
@@ -163,14 +157,19 @@ long-context foundation models across various AI disciplines, including but not 
             <br>Carnegie Mellon University</p>
         </div>
         <div class="team-member">
-            <img src="/assets/img/howard.png" alt="Name 4">
-            <p><a href="https://howard-yen.github.io/#About">Howard Yen</a>
-            <br>Princeton University</p>
+            <img src="/assets/img/organizers/seungju.jpeg" alt="Name 4">
+            <p><a href="https://seungjuhan.me/">Seungju Han</a>
+            <br>Stanford University</p>
         </div>
-        <div class="team-member">
+        <!-- <div class="team-member">
             <img src="/assets/img/organizers/yuandong.png" alt="Name 5">
             <p><a href="https://tridao.me/">Yuandong Tian</a>
             <br>Meta</p>
+        </div> -->
+        <div class="team-member">
+            <img src="/assets/img/organizers/alex.jpg" alt="Name 5">
+            <p><a href="https://en.wikipedia.org/wiki/Alex_Pentland">Alex "Sandy" Pentland</a>
+            <br>MIT <br>Stanford University</p>
         </div>
         <div class="team-member">
             <img src="/assets/img/organizers/danqi.png" alt="Name 6">
@@ -178,15 +177,20 @@ long-context foundation models across various AI disciplines, including but not 
             <br>Princeton University</p>
         </div>
         <div class="team-member">
+            <img src="/assets/img/organizers/yejin.jpeg" alt="Name 7">
+            <p><a href="https://yejinc.github.io/">Yejin Choi</a>
+            <br>Stanford University</p>
+        </div>
+        <!-- <div class="team-member">
             <img src="/assets/img/organizers/graham.jpeg" alt="Name 7">
             <p><a href="https://phontron.com/">Graham Neubig</a>
             <br>Carnegie Mellon University</p>
-        </div>
-        <div class="team-member">
+        </div> -->
+        <!-- <div class="team-member">
             <img src="/assets/img/organizers/rogerio.jpg" alt="Name 8">
             <p><a href="https://www.rogerioferis.org/">Rogerio Feris</a>
             <br>MIT-IBM</p>
-        </div>
+        </div> -->
     </div>
 </html>
 

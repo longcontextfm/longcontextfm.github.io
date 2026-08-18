@@ -9,7 +9,7 @@ nav_order: 3
 
 # Accepted Papers
 
-Please check our [OpenReview page](https://openreview.net/group?id=ICML.cc/2025/Workshop/LCFM&referrer=%5BHomepage%5D(%2F)#tab-accept) for all the accepted papers!
+Please check our [OpenReview page](https://openreview.net/group?id=NeurIPS.cc/2026/Workshop/LCFM) for accepted papers.
 
 <!--
 <br>
