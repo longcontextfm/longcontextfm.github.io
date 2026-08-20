@@ -84,12 +84,12 @@ long-context foundation models across various AI disciplines, including but not 
             <p> <a href="https://danfu.org/">Dan Fu</a>
              <br> University of California, San Diego <br> Together AI </p>
         </div>
-        <!-- <div class="team-member">
-            <img src="/assets/img/speakers/pangwei.png" alt="Name 3">
-            <p><a href="https://koh.pw/"> Pang Wei Koh</a>
-            <br>University of Washington</p>
-        </div>
         <div class="team-member">
+            <img src="/assets/img/speakers/kristen.jpg" alt="Name 3">
+            <p><a href="https://www.cs.utexas.edu/~grauman/">Kristen Grauman</a>
+            <br>University of Texas at Austin</p>
+        </div>
+        <!-- <div class="team-member">
             <img src="/assets/img/speakers/dima.png" alt="Name 4">
             <p><a href="https://developer.nvidia.com/blog/author/drekesh/">Dima Rekesh</a>
             <br>NVIDIA</p>
