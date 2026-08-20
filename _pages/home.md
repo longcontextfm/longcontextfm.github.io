@@ -72,20 +72,19 @@ long-context foundation models across various AI disciplines, including but not 
 
 ## Speakers
 
-To be announced.
-<!-- <html>
+<html>
     <div class="team-container">
         <div class="team-member">
-            <img src="/assets/img/speakers/jiajun.png" alt="Name 1">
-            <p><a href="https://jiajunwu.com/"> Jiajun Wu</a>
-            <br>Stanford University</p>
+            <img src="/assets/img/speakers/yusun.jpg" alt="Name 1">
+            <p><a href="https://yueatsprograms.github.io/"> Yu Sun</a>
+            <br>Stanford University <br> Nvidia </p>
         </div>
         <div class="team-member">
-            <img src="/assets/img/speakers/tri.png" alt="Name 2">
-            <p> <a href="https://tridao.me/">Tri Dao</a>
-             <br> Princeton University <br> Together AI </p>
+            <img src="/assets/img/speakers/danfu.jpeg" alt="Name 2">
+            <p> <a href="https://danfu.org/">Dan Fu</a>
+             <br> University of California, San Diego <br> Together AI </p>
         </div>
-        <div class="team-member">
+        <!-- <div class="team-member">
             <img src="/assets/img/speakers/pangwei.png" alt="Name 3">
             <p><a href="https://koh.pw/"> Pang Wei Koh</a>
             <br>University of Washington</p>
@@ -99,22 +98,22 @@ To be announced.
             <img src="/assets/img/speakers/Volodymyr.png" alt="Name 5">
             <p><a href="https://www.cs.cornell.edu/~kuleshov/">Volodymyr Kuleshov</a>
             <br>Cornell University <br> Cornell Tech University</p>
-        </div>
+        </div> -->
     </div>
-</html> -->
+</html>
 
+More to be announced.
 
 ## Panelists
 
-To be announced.
-<!-- <html>
+<html>
     <div class="team-container">
          <div class="team-member">
-            <img src="/assets/img/organizers/yuandong.png" alt="Name 2">
-            <p><a href="https://tridao.me/">Yuandong Tian</a>
-            <br>Meta</p>
+            <img src="/assets/img/speakers/jiayuan.jpg" alt="Name 1">
+            <p><a href="https://jiayuanm.com/">Jiayuan Mao</a>
+            <br>University of Pennsylvania</p>
         </div>
-        <div class="team-member">
+        <!-- <div class="team-member">
             <img src="/assets/img/speakers/mohit.png" alt="Name 3">
             <p><a href="https://people.cs.umass.edu/~miyyer/">Mohit Iyyer</a>
             <br>University of Massachusetts Amherst</p>
@@ -128,10 +127,11 @@ To be announced.
             <img src="/assets/img/speakers/xinyu.png" alt="Name 1">
             <p><a href="https://xinyuyang.me/">Xinyu Yang</a>
             <br>Carnegie Mellon University</p>
-        </div>
+        </div> -->
     </div>
-</html> -->
+</html>
 
+More to be announced.
 
 ## Organizers
 <html>
