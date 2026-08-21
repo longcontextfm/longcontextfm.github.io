@@ -1,8 +1,7 @@
 ---
 layout: default2
-title: home
 permalink: /
-title: <h3  align="center">Workshop on Long Context Foundation Models (LCFM)</h3>
+title: <h3 align="center">Workshop on Long Context Foundation Models (LCFM)</h3>
 nav_order: 1
 ---
 
@@ -14,11 +13,15 @@ Workshop schedule to be released.
 
 # Call for Papers
 <br>
-### Important Dates
-
-* Submission Deadline: September 10, 2026
-* Review Period: September 11–25, 2026
-* Decisions: September 29, 2026
+<div class="dates-box">
+    <h3>Important Dates</h3>
+    <ul> <b>
+        <li>Submission Deadline: September 10, 2026, 23:59 AOE</li>
+        <li>Review Period: September 11–25, 2026, 23:59 AOE</li>
+        <li>Decisions: September 29, 2026, 23:59 AOE</li>
+        </b>
+    </ul>
+</div>
 
 
 <br>
@@ -48,6 +51,7 @@ demanding domains such as AI for scientific discovery?
 across modeling, evaluation, and deployment, including position pieces. -->
 We welcome works that address these challenges, foster discussion, developments, and evaluation of 
 long-context foundation models across disciplines, including but not limited to:
+
 
 * Long-context and long-horizon agentic foundation models
 * Novel modeling and training approaches
@@ -89,12 +93,12 @@ long-context foundation models across various AI disciplines, including but not 
             <p><a href="https://www.cs.utexas.edu/~grauman/">Kristen Grauman</a>
             <br>University of Texas at Austin</p>
         </div>
-        <!-- <div class="team-member">
-            <img src="/assets/img/speakers/dima.png" alt="Name 4">
-            <p><a href="https://developer.nvidia.com/blog/author/drekesh/">Dima Rekesh</a>
-            <br>NVIDIA</p>
-        </div>
         <div class="team-member">
+            <img src="/assets/img/speakers/tba.jpg" alt="Name 4">
+            <p><a href="">TBA</a>
+            <br></p>
+        </div>
+        <!-- <div class="team-member">
             <img src="/assets/img/speakers/Volodymyr.png" alt="Name 5">
             <p><a href="https://www.cs.cornell.edu/~kuleshov/">Volodymyr Kuleshov</a>
             <br>Cornell University <br> Cornell Tech University</p>
@@ -113,21 +117,21 @@ More to be announced.
             <p><a href="https://jiayuanm.com/">Jiayuan Mao</a>
             <br>University of Pennsylvania</p>
         </div>
-        <!-- <div class="team-member">
-            <img src="/assets/img/speakers/mohit.png" alt="Name 3">
-            <p><a href="https://people.cs.umass.edu/~miyyer/">Mohit Iyyer</a>
-            <br>University of Massachusetts Amherst</p>
+        <div class="team-member">
+            <img src="/assets/img/speakers/tba.jpg" alt="Name 3">
+            <p><a href="">TBA</a>
+            <br></p>
         </div>
         <div class="team-member">
-            <img src="/assets/img/speakers/dima.png" alt="Name 4">
-            <p><a href="https://developer.nvidia.com/blog/author/drekesh/">Dima Rekesh</a>
-            <br>NVIDIA</p>
+            <img src="/assets/img/speakers/tba.jpg" alt="Name 4">
+            <p><a href="">TBA</a>
+            <br></p>
         </div>
         <div class="team-member">
-            <img src="/assets/img/speakers/xinyu.png" alt="Name 1">
-            <p><a href="https://xinyuyang.me/">Xinyu Yang</a>
-            <br>Carnegie Mellon University</p>
-        </div> -->
+            <img src="/assets/img/speakers/tba.jpg" alt="Name 1">
+            <p><a href="">TBA</a>
+            <br></p>
+        </div>
     </div>
 </html>
 
@@ -287,6 +291,25 @@ More to be announced.
     .news-box {
         width: 100%; /* Adjust width to fit the screen */
     }
+}
+
+.dates-box {
+    background-color: #f2fbf2;
+    border: none;
+    border-radius: 12px;
+    padding: 18px 20px;
+    margin: 0 0 18px 0;
+    max-width: 760px;
+    box-shadow: 0 6px 18px rgba(29, 53, 87, 0.08);
+}
+
+.dates-box h3 {
+    margin-top: 0;
+}
+
+.dates-box ul {
+    margin: 0;
+    padding-left: 20px;
 }
 </style>
 
