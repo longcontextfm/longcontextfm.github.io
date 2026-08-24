@@ -39,7 +39,7 @@ long-context foundation models across various AI disciplines, including but not 
 
 * Paper submission is hosted on [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2026/Workshop/LCFM).
 * We welcome short papers __up to 4 pages__ or long papers __up to 8 pages__, not including references or appendix.
-  * Please use the provided LaTex template ([Overleaf](https://www.overleaf.com/read/wcfywyhzfppz#e0be4f)) for your submission.
+  * Please use the provided LaTex template ([Overleaf](https://www.overleaf.com/read/bpbmtzvcjnyh#b842b3)) for your submission.
   * The paper should be anonymized and uploaded to OpenReview as a single PDF. 
   * You may use as many pages of references and appendix as you wish, but reviewers are not required to read the appendix. 
   * Posting papers on preprint servers like ArXiv is permitted.

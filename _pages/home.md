@@ -33,6 +33,7 @@ Workshop schedule to be released.
   * The paper should be anonymized and uploaded to OpenReview as a single PDF. 
   * You may use as many pages of references and appendix as you wish, but reviewers are not required to read the appendix. 
   * Posting papers on preprint servers like ArXiv is permitted.
+  * Please use the provided LaTex template ([Overleaf](https://www.overleaf.com/read/bpbmtzvcjnyh#b842b3)) for your submission.
 * This is a __non-archival__ workshop. No submission will be indexed nor have archival proceedings.
   * Accepted papers will appear on the workshop website. They will also be available on OpenReview and the NeurIPS virtual site.
   * We accept submissions that are under review at other venues (e.g., ICLR 2027), as long as this does not violate the dual-submission / anonymity policy of the other venue.
