@@ -94,13 +94,8 @@ long-context foundation models across various AI disciplines, including but not 
             <p><a href="https://www.cs.utexas.edu/~grauman/">Kristen Grauman</a>
             <br>University of Texas at Austin</p>
         </div>
-        <!-- <div class="team-member">
-            <img src="/assets/img/speakers/tba.jpg" alt="Name 4">
-            <p><a href="">TBA</a>
-            <br></p>
-        </div> -->
         <div class="team-member">
-            <img src="/assets/img/speakers/ali.png" alt="Name 4">
+            <img src="/assets/img/speakers/ali.jgp" alt="Name 4">
             <p><a href="https://ahatamiz.github.io/">Ali Hatamizadeh</a>
             <br>NVIDIA</p>
         </div>
