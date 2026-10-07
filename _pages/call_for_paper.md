@@ -13,6 +13,7 @@ nav: false
 * Submission Deadline: September 10, 2026
 * Review Period: September 11–25, 2026
 * Decisions: September 29, 2026
+* Camera Ready: November 13, 2026
 
 
 <br>
