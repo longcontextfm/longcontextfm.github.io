@@ -19,6 +19,7 @@ Workshop schedule to be released.
         <li>Submission Deadline: <s>September 10, 2026, 23:59 AOE</s><br>Extended: September 13, 2026, 23:59 AOE</li>
         <li>Review Period: <s>September 11–25, 2026, 23:59 AOE</s><br>Extended: September 14–25, 2026, 23:59 AOE</li>
         <li>Decisions: September 29, 2026, 23:59 AOE</li>
+        <li>Camera Ready: November 13, 2026, 23:59 AOE</li>
         </b>
     </ul>
 </div>
